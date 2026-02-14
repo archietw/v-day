@@ -11,9 +11,9 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    " Suy nghĩ kỹ rồi chứ? 🥺",
+    "Em chắc chưa? 🥺",
     "Còi ơii... 🥺",
-    "Anh không ép đâu … nhưng anh khá nghiêm túc đó …",
+    "Anh không ép đâu… nhưng anh khá nghiêm túc đó …",
     "Anh chỉ làm điều này vì đó là em.",
     "Cho chúng ta một cơ hội nha? 💔",
     "Anh nghĩ em thông minh mà....",
